@@ -1,6 +1,7 @@
-import br.com.atlas.reader.Barcode1DReader;
-import br.com.atlas.reader.BarcodeData;
-import br.com.atlas.reader.RImage;
+import br.com.arabella.reader.Barcode1DReader;
+import br.com.arabella.reader.BarcodeData;
+import br.com.arabella.reader.RImage;
+
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Graphics;
